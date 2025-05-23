@@ -4,7 +4,7 @@
 
 # Seoul Bikes Rental Demand with R 
 
-This repository contains notebooks of analyzing and building multiple regression models for the Seoul Bike Sharing System.
+This repository contains notebooks of analyzing and building multiple regression models for the Seoul Bike Sharing System using R. For uploading and visualization so I use Jupiter Nootebook for easy access.
 
 
 
