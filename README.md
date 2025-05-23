@@ -1,5 +1,5 @@
 
-![Banner_R](./docs/Banner_R.PNG)
+![Banner_R](./docs/Banner_R.png)
 
 
 # Seoul Bikes Rental Demand with R 
